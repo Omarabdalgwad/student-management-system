@@ -1,2 +1,2 @@
 # student-management-system
-a simple student management desktop system built with flet and sqlit3
+a simple student management desktop system built with python (flet) and sqlit3
